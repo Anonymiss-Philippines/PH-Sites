@@ -1,0 +1,32 @@
+URL www.bulacan.gov.ph
+IP To Be Traced:162.221.185.98
+Tracking down 162.221.185.98...
+
+Tracing route to whwwindows102.superdomainzone.com [162.221.185.98]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1
+  2    79 ms    42 ms    31 ms  112.208.32.1.pldt.net [112.208.32.1]
+  3    45 ms    48 ms    48 ms  119.93.255.197
+  4    36 ms    33 ms    32 ms  210.213.131.66.static.pldt.net [210.213.131.66]
+
+  5    32 ms    31 ms    32 ms  122.2.175.30.static.pldt.net [122.2.175.30]
+  6    31 ms    33 ms    36 ms  210.213.130.162.static.pldt.net [210.213.130.162
+]
+  7   235 ms   219 ms   199 ms  xe-0-3-0-5.r01.snjsca04.us.bb.gin.ntt.net [140.1
+74.21.177]
+  8   197 ms   203 ms   200 ms  ae-1.r22.snjsca04.us.bb.gin.ntt.net [129.250.3.2
+6]
+  9   280 ms   262 ms   265 ms  ae-7.r23.asbnva02.us.bb.gin.ntt.net [129.250.6.2
+38]
+ 10   300 ms   293 ms   291 ms  ae-1.r20.miamfl02.us.bb.gin.ntt.net [129.250.2.8
+7]
+ 11   304 ms   300 ms   297 ms  ae-1.r05.miamfl02.us.bb.gin.ntt.net [129.250.2.1
+85]
+ 12   303 ms   301 ms   302 ms  xe-0-7-0-14.r05.miamfl02.us.ce.gin.ntt.net [129.
+250.194.126]
+ 13   472 ms   493 ms   354 ms  xe-1-2-core1.orl.hostdime.com [72.29.88.34]
+ 14   361 ms   362 ms   363 ms  whwwindows102.superdomainzone.com [162.221.185.9
+8]
+
+Trace complete.
