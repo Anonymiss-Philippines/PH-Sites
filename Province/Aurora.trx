@@ -1,0 +1,34 @@
+URL http://aurora.gov.ph/suspended.htm
+IP To Be Traced:192.185.35.40
+Tracking down 192.185.35.40...
+
+Tracing route to 192.185.35.40 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  192.168.1.1
+  2    31 ms    34 ms    30 ms  112.208.32.1.pldt.net [112.208.32.1]
+  3    34 ms    31 ms    38 ms  119.93.255.197
+  4    33 ms    33 ms    33 ms  210.213.131.66.static.pldt.net [210.213.131.66]
+
+  5    31 ms    32 ms    31 ms  122.2.175.34.static.pldt.net [122.2.175.34]
+  6    39 ms    31 ms    32 ms  210.213.133.101.static.pldt.net [210.213.133.101
+]
+  7   180 ms   180 ms   181 ms  te0-7-0-15.ccr23.lax05.atlas.cogentco.com [38.10
+4.84.201]
+  8   182 ms   179 ms   178 ms  be2179.ccr22.lax01.atlas.cogentco.com [154.54.41
+.81]
+  9   192 ms   193 ms   192 ms  be2932.ccr22.phx02.atlas.cogentco.com [154.54.45
+.161]
+ 10   213 ms   208 ms   232 ms  be2930.ccr21.elp01.atlas.cogentco.com [154.54.42
+.78]
+ 11   241 ms   237 ms   233 ms  be2927.ccr21.iah01.atlas.cogentco.com [154.54.29
+.221]
+ 12   224 ms   417 ms   452 ms  be2145.rcr12.iah02.atlas.cogentco.com [154.54.1.
+86]
+ 13   603 ms   217 ms   216 ms  te0-0-2-3.nr11.b023723-0.iah02.atlas.cogentco.co
+m [154.24.26.90]
+ 14   217 ms   215 ms   216 ms  38.122.196.34
+ 15   216 ms   216 ms   216 ms  216.117.50.134
+ 16   246 ms   218 ms   215 ms  192.185.178.162
+ 17   216 ms   215 ms   215 ms  192.185.35.40
+
+Trace complete.
