@@ -1,0 +1,47 @@
+{
+	"customCode":"09",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/09.json",
+ 			 "level": 2,
+		 "name": "REGION IX",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/09",
+ 	"subRegions" : {
+						"7200" : {
+			 "customCode": "7200",
+			 			 "name": "ZAMBOANGA DEL NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IX",
+			 "parentCustomCode" : "09",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7200.json"
+	 	}
+								,  
+				"7300" : {
+			 "customCode": "7300",
+			 			 "name": "ZAMBOANGA DEL SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IX",
+			 "parentCustomCode" : "09",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7300.json"
+	 	}
+								,  
+				"8300" : {
+			 "customCode": "8300",
+			 			 "name": "ZAMBOANGA SIBUGAY",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IX",
+			 "parentCustomCode" : "09",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/8300.json"
+	 	}
+				}
+	}
