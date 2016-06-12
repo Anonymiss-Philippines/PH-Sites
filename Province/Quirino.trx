@@ -9,25 +9,16 @@ over a maximum of 30 hops:
   2     *       42 ms    38 ms  122.2.134.169.pldt.net [122.2.134.169]
   3    27 ms    39 ms    29 ms  122.2.175.249.static.pldt.net [122.2.175.249]
   4    38 ms    54 ms    34 ms  210.213.131.70.static.pldt.net [210.213.131.70]
-
   5    28 ms    31 ms    32 ms  210.213.128.21.static.pldt.net [210.213.128.21]
-
-  6    30 ms    29 ms    29 ms  210.213.130.158.static.pldt.net [210.213.130.158
-]
-  7   225 ms   223 ms   228 ms  ix-xe-5-0-0-0.tcore1.SQN-San-Jose.as6453.net [63
-.243.205.49]
-  8   230 ms   224 ms   224 ms  if-ae-3-2.tcore2.LVW-Los-Angeles.as6453.net [63.
-243.205.14]
-  9   237 ms   226 ms   234 ms  if-ae-7-2.tcore2.SVW-Singapore.as6453.net [180.8
-7.15.25]
- 10   229 ms     *        *     if-ae-20-2.tcore1.SVQ-Singapore.as6453.net [180.
-87.96.21]
+  6    30 ms    29 ms    29 ms  210.213.130.158.static.pldt.net [210.213.130.158]
+  7   225 ms   223 ms   228 ms  ix-xe-5-0-0-0.tcore1.SQN-San-Jose.as6453.net [63.243.205.49]
+  8   230 ms   224 ms   224 ms  if-ae-3-2.tcore2.LVW-Los-Angeles.as6453.net [63.243.205.14]
+  9   237 ms   226 ms   234 ms  if-ae-7-2.tcore2.SVW-Singapore.as6453.net [180.87.15.25]
+ 10   229 ms     *        *     if-ae-20-2.tcore1.SVQ-Singapore.as6453.net [180.87.96.21]
  11   227 ms   230 ms   229 ms  120.29.215.18
- 12   233 ms   233 ms   230 ms  ip-182-50-156-245.ip.secureserver.net [182.50.15
-6.245]
+ 12   233 ms   233 ms   230 ms  ip-182-50-156-245.ip.secureserver.net [182.50.156.245]
  13     *        *        *     Request timed out.
  14     *        *        *     Request timed out.
- 15   224 ms   231 ms   224 ms  sg2nlhg70c1003.shr.prod.sin2.secureserver.net [1
-82.50.135.128]
+ 15   224 ms   231 ms   224 ms  sg2nlhg70c1003.shr.prod.sin2.secureserver.net [182.50.135.128]
 
 Trace complete.
