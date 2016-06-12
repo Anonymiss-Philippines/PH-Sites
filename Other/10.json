@@ -1,0 +1,71 @@
+{
+	"customCode":"10",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/10.json",
+ 			 "level": 2,
+		 "name": "REGION X",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/10",
+ 	"subRegions" : {
+						"1300" : {
+			 "customCode": "1300",
+			 			 "name": "BUKIDNON",
+		 	 "level": 3,
+			 			 "parentName" : "REGION X",
+			 "parentCustomCode" : "10",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1300.json"
+	 	}
+								,  
+				"1800" : {
+			 "customCode": "1800",
+			 			 "name": "CAMIGUIN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION X",
+			 "parentCustomCode" : "10",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1800.json"
+	 	}
+								,  
+				"3500" : {
+			 "customCode": "3500",
+			 			 "name": "LANAO DEL NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION X",
+			 "parentCustomCode" : "10",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3500.json"
+	 	}
+								,  
+				"4200" : {
+			 "customCode": "4200",
+			 			 "name": "MISAMIS OCCIDENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION X",
+			 "parentCustomCode" : "10",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4200.json"
+	 	}
+								,  
+				"4300" : {
+			 "customCode": "4300",
+			 			 "name": "MISAMIS ORIENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION X",
+			 "parentCustomCode" : "10",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4300.json"
+	 	}
+				}
+	}
