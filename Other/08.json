@@ -1,0 +1,83 @@
+{
+	"customCode":"08",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/08.json",
+ 			 "level": 2,
+		 "name": "REGION VIII",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/08",
+ 	"subRegions" : {
+						"7800" : {
+			 "customCode": "7800",
+			 			 "name": "BILIRAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7800.json"
+	 	}
+								,  
+				"2600" : {
+			 "customCode": "2600",
+			 			 "name": "EASTERN SAMAR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2600.json"
+	 	}
+								,  
+				"3700" : {
+			 "customCode": "3700",
+			 			 "name": "LEYTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3700.json"
+	 	}
+								,  
+				"4800" : {
+			 "customCode": "4800",
+			 			 "name": "NORTHERN SAMAR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4800.json"
+	 	}
+								,  
+				"6000" : {
+			 "customCode": "6000",
+			 			 "name": "SAMAR (WESTERN SAMAR)",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6000.json"
+	 	}
+								,  
+				"6400" : {
+			 "customCode": "6400",
+			 			 "name": "SOUTHERN LEYTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VIII",
+			 "parentCustomCode" : "08",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6400.json"
+	 	}
+				}
+	}
