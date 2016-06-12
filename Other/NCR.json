@@ -1,0 +1,71 @@
+{
+	"customCode":"NCR",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/NCR.json",
+ 			 "level": 2,
+		 "name": "NCR",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/NCR",
+ 	"subRegions" : {
+						"7600" : {
+			 "customCode": "7600",
+			 			 "name": "NATIONAL CAPITAL REGION - FOURTH DISTRICT",
+		 	 "level": 3,
+			 			 "parentName" : "NCR",
+			 "parentCustomCode" : "NCR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7600.json"
+	 	}
+								,  
+				"3900" : {
+			 "customCode": "3900",
+			 			 "name": "NATIONAL CAPITAL REGION - MANILA",
+		 	 "level": 3,
+			 			 "parentName" : "NCR",
+			 "parentCustomCode" : "NCR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3900.json"
+	 	}
+								,  
+				"7400" : {
+			 "customCode": "7400",
+			 			 "name": "NATIONAL CAPITAL REGION - SECOND DISTRICT",
+		 	 "level": 3,
+			 			 "parentName" : "NCR",
+			 "parentCustomCode" : "NCR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7400.json"
+	 	}
+								,  
+				"7500" : {
+			 "customCode": "7500",
+			 			 "name": "NATIONAL CAPITAL REGION - THIRD DISTRICT",
+		 	 "level": 3,
+			 			 "parentName" : "NCR",
+			 "parentCustomCode" : "NCR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7500.json"
+	 	}
+								,  
+				"9700" : {
+			 "customCode": "9700",
+			 			 "name": "TAGUIG - PATEROS",
+		 	 "level": 3,
+			 			 "parentName" : "NCR",
+			 "parentCustomCode" : "NCR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/9700.json"
+	 	}
+				}
+	}
