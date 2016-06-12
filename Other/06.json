@@ -1,0 +1,71 @@
+{
+	"customCode":"06",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/06.json",
+ 			 "level": 2,
+		 "name": "REGION VI",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/06",
+ 	"subRegions" : {
+						"0400" : {
+			 "customCode": "0400",
+			 			 "name": "AKLAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VI",
+			 "parentCustomCode" : "06",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0400.json"
+	 	}
+								,  
+				"0600" : {
+			 "customCode": "0600",
+			 			 "name": "ANTIQUE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VI",
+			 "parentCustomCode" : "06",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0600.json"
+	 	}
+								,  
+				"1900" : {
+			 "customCode": "1900",
+			 			 "name": "CAPIZ",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VI",
+			 "parentCustomCode" : "06",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1900.json"
+	 	}
+								,  
+				"7900" : {
+			 "customCode": "7900",
+			 			 "name": "GUIMARAS",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VI",
+			 "parentCustomCode" : "06",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7900.json"
+	 	}
+								,  
+				"3000" : {
+			 "customCode": "3000",
+			 			 "name": "ILOILO",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VI",
+			 "parentCustomCode" : "06",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3000.json"
+	 	}
+				}
+	}
