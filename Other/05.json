@@ -1,0 +1,83 @@
+{
+	"customCode":"05",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/05.json",
+ 			 "level": 2,
+		 "name": "REGION V",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/05",
+ 	"subRegions" : {
+						"0500" : {
+			 "customCode": "0500",
+			 			 "name": "ALBAY",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0500.json"
+	 	}
+								,  
+				"1600" : {
+			 "customCode": "1600",
+			 			 "name": "CAMARINES NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1600.json"
+	 	}
+								,  
+				"1700" : {
+			 "customCode": "1700",
+			 			 "name": "CAMARINES SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1700.json"
+	 	}
+								,  
+				"2000" : {
+			 "customCode": "2000",
+			 			 "name": "CATANDUANES",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2000.json"
+	 	}
+								,  
+				"4100" : {
+			 "customCode": "4100",
+			 			 "name": "MASBATE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4100.json"
+	 	}
+								,  
+				"6200" : {
+			 "customCode": "6200",
+			 			 "name": "SORSOGON",
+		 	 "level": 3,
+			 			 "parentName" : "REGION V",
+			 "parentCustomCode" : "05",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6200.json"
+	 	}
+				}
+	}
