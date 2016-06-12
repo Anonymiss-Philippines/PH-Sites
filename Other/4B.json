@@ -1,0 +1,71 @@
+{
+	"customCode":"4B",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/4B.json",
+ 			 "level": 2,
+		 "name": "REGION IV-B",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/4B",
+ 	"subRegions" : {
+						"4000" : {
+			 "customCode": "4000",
+			 			 "name": "MARINDUQUE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-B",
+			 "parentCustomCode" : "4B",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4000.json"
+	 	}
+								,  
+				"5100" : {
+			 "customCode": "5100",
+			 			 "name": "OCCIDENTAL MINDORO",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-B",
+			 "parentCustomCode" : "4B",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5100.json"
+	 	}
+								,  
+				"5200" : {
+			 "customCode": "5200",
+			 			 "name": "ORIENTAL MINDORO",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-B",
+			 "parentCustomCode" : "4B",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5200.json"
+	 	}
+								,  
+				"5300" : {
+			 "customCode": "5300",
+			 			 "name": "PALAWAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-B",
+			 "parentCustomCode" : "4B",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5300.json"
+	 	}
+								,  
+				"5900" : {
+			 "customCode": "5900",
+			 			 "name": "ROMBLON",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-B",
+			 "parentCustomCode" : "4B",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5900.json"
+	 	}
+				}
+	}
