@@ -1,0 +1,71 @@
+{
+	"customCode":"02",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/02.json",
+ 			 "level": 2,
+		 "name": "REGION II",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/02",
+ 	"subRegions" : {
+						"0900" : {
+			 "customCode": "0900",
+			 			 "name": "BATANES",
+		 	 "level": 3,
+			 			 "parentName" : "REGION II",
+			 "parentCustomCode" : "02",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0900.json"
+	 	}
+								,  
+				"1500" : {
+			 "customCode": "1500",
+			 			 "name": "CAGAYAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION II",
+			 "parentCustomCode" : "02",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1500.json"
+	 	}
+								,  
+				"3100" : {
+			 "customCode": "3100",
+			 			 "name": "ISABELA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION II",
+			 "parentCustomCode" : "02",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3100.json"
+	 	}
+								,  
+				"5000" : {
+			 "customCode": "5000",
+			 			 "name": "NUEVA VIZCAYA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION II",
+			 "parentCustomCode" : "02",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5000.json"
+	 	}
+								,  
+				"5700" : {
+			 "customCode": "5700",
+			 			 "name": "QUIRINO",
+		 	 "level": 3,
+			 			 "parentName" : "REGION II",
+			 "parentCustomCode" : "02",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5700.json"
+	 	}
+				}
+	}
