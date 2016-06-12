@@ -1,0 +1,71 @@
+{
+	"customCode":"13",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/13.json",
+ 			 "level": 2,
+		 "name": "REGION XIII",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/13",
+ 	"subRegions" : {
+						"0200" : {
+			 "customCode": "0200",
+			 			 "name": "AGUSAN DEL NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XIII",
+			 "parentCustomCode" : "13",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0200.json"
+	 	}
+								,  
+				"0300" : {
+			 "customCode": "0300",
+			 			 "name": "AGUSAN DEL SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XIII",
+			 "parentCustomCode" : "13",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0300.json"
+	 	}
+								,  
+				"8500" : {
+			 "customCode": "8500",
+			 			 "name": "DINAGAT ISLANDS",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XIII",
+			 "parentCustomCode" : "13",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/8500.json"
+	 	}
+								,  
+				"6700" : {
+			 "customCode": "6700",
+			 			 "name": "SURIGAO DEL NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XIII",
+			 "parentCustomCode" : "13",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6700.json"
+	 	}
+								,  
+				"6800" : {
+			 "customCode": "6800",
+			 			 "name": "SURIGAO DEL SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XIII",
+			 "parentCustomCode" : "13",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6800.json"
+	 	}
+				}
+	}
