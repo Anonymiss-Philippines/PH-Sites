@@ -1,0 +1,115 @@
+{
+	"customCode":"ARMM",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/ARMM.json",
+ 			 "level": 2,
+		 "name": "ARMM",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/ARMM",
+ 	"subRegions" : {
+						"0700" : {
+			 "customCode": "0700",
+			 			 "name": "BASILAN",
+		 	 "level": 3,
+			 			 "parentName" : "ARMM",
+			 "parentCustomCode" : "ARMM",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0700.json"
+	 	}
+								,  
+				"3600" : {
+			 "customCode": "3600",
+			 			 "name": "LANAO DEL SUR",
+		 	 "level": 3,
+			 			 "parentName" : "ARMM",
+			 "parentCustomCode" : "ARMM",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3600.json"
+	 	}
+								,  
+				"3800" : {
+			 "customCode": "3800",
+			 			 "name": "MAGUINDANAO",
+		 	 "level": 3,
+			 			 "parentName" : "ARMM",
+			 "parentCustomCode" : "ARMM",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3800.json"
+	 	}
+								,  
+				"6600" : {
+			 "customCode": "6600",
+			 			 "name": "SULU",
+		 	 "level": 3,
+			 			 "parentName" : "ARMM",
+			 "parentCustomCode" : "ARMM",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6600.json"
+	 	}
+								,  
+				"7000" : {
+			 "customCode": "7000",
+			 			 "name": "TAWI-TAWI",
+		 	 "level": 3,
+			 			 "parentName" : "ARMM",
+			 "parentCustomCode" : "ARMM",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7000.json"
+	 	}
+				}
+						,
+			"contests" : [
+														{
+					 "url": "tallies/290/290196/11161.json",
+					 "cClass" : "1",
+					 "customCode":"00199009",
+					 "code":"11161"
+			 	}
+																,  
+								{
+					 "url": "tallies/290/290196/11162.json",
+					 "cClass" : "2",
+					 "customCode":"00299009",
+					 "code":"11162"
+			 	}
+																,  
+								{
+					 "url": "tallies/290/290196/11163.json",
+					 "cClass" : "3",
+					 "customCode":"00399009",
+					 "code":"11163"
+			 	}
+																,  
+								{
+					 "url": "tallies/290/290196/11164.json",
+					 "cClass" : "4",
+					 "customCode":"01199009",
+					 "code":"11164"
+			 	}
+																,  
+								{
+					 "url": "tallies/290/290196/11403.json",
+					 "cClass" : "6",
+					 "customCode":"01295009",
+					 "code":"11403"
+			 	}
+																,  
+								{
+					 "url": "tallies/290/290196/11404.json",
+					 "cClass" : "7",
+					 "customCode":"01395009",
+					 "code":"11404"
+			 	}
+										]
+			}
