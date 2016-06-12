@@ -1,0 +1,59 @@
+{
+	"customCode":"OAV",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/OAV.json",
+ 			 "level": 2,
+		 "name": "OAV",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/OAV",
+ 	"subRegions" : {
+						"9000" : {
+			 "customCode": "9000",
+			 			 "name": "ASIA",
+		 	 "level": 3,
+			 			 "parentName" : "OAV",
+			 "parentCustomCode" : "OAV",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/9000.json"
+	 	}
+								,  
+				"9300" : {
+			 "customCode": "9300",
+			 			 "name": "EUROPE",
+		 	 "level": 3,
+			 			 "parentName" : "OAV",
+			 "parentCustomCode" : "OAV",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/9300.json"
+	 	}
+								,  
+				"9200" : {
+			 "customCode": "9200",
+			 			 "name": "MIDDLE EAST AND AFRICAS",
+		 	 "level": 3,
+			 			 "parentName" : "OAV",
+			 "parentCustomCode" : "OAV",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/9200.json"
+	 	}
+								,  
+				"9100" : {
+			 "customCode": "9100",
+			 			 "name": "NORTH AND LATIN AMERICA",
+		 	 "level": 3,
+			 			 "parentName" : "OAV",
+			 "parentCustomCode" : "OAV",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/9100.json"
+	 	}
+				}
+	}
