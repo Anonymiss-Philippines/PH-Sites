@@ -1,0 +1,71 @@
+{
+	"customCode":"11",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/11.json",
+ 			 "level": 2,
+		 "name": "REGION XI",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/11",
+ 	"subRegions" : {
+						"8200" : {
+			 "customCode": "8200",
+			 			 "name": "COMPOSTELA VALLEY",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XI",
+			 "parentCustomCode" : "11",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/8200.json"
+	 	}
+								,  
+				"2300" : {
+			 "customCode": "2300",
+			 			 "name": "DAVAO (DAVAO DEL NORTE)",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XI",
+			 "parentCustomCode" : "11",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2300.json"
+	 	}
+								,  
+				"2400" : {
+			 "customCode": "2400",
+			 			 "name": "DAVAO DEL SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XI",
+			 "parentCustomCode" : "11",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2400.json"
+	 	}
+								,  
+				"8600" : {
+			 "customCode": "8600",
+			 			 "name": "DAVAO OCCIDENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XI",
+			 "parentCustomCode" : "11",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/8600.json"
+	 	}
+								,  
+				"2500" : {
+			 "customCode": "2500",
+			 			 "name": "DAVAO ORIENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION XI",
+			 "parentCustomCode" : "11",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2500.json"
+	 	}
+				}
+	}
