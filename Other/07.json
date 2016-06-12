@@ -1,0 +1,47 @@
+{
+	"customCode":"07",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/07.json",
+ 			 "level": 2,
+		 "name": "REGION VII",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/07",
+ 	"subRegions" : {
+						"1200" : {
+			 "customCode": "1200",
+			 			 "name": "BOHOL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VII",
+			 "parentCustomCode" : "07",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1200.json"
+	 	}
+								,  
+				"2200" : {
+			 "customCode": "2200",
+			 			 "name": "CEBU",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VII",
+			 "parentCustomCode" : "07",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2200.json"
+	 	}
+								,  
+				"6100" : {
+			 "customCode": "6100",
+			 			 "name": "SIQUIJOR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION VII",
+			 "parentCustomCode" : "07",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6100.json"
+	 	}
+				}
+	}
