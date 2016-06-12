@@ -9,18 +9,13 @@ over a maximum of 30 hops:
   2    62 ms    35 ms    35 ms  112.208.32.1.pldt.net [112.208.32.1]
   3    32 ms    32 ms    32 ms  119.93.255.197
   4    38 ms    48 ms    33 ms  210.213.131.70.static.pldt.net [210.213.131.70]
-
   5    62 ms    32 ms    33 ms  210.213.131.85.static.pldt.net [210.213.131.85]
-
   6   183 ms   183 ms   231 ms  210.14.2.178
-  7   199 ms   186 ms   198 ms  ace-data-centers.as11798.any2ix.coresite.com [20
-6.72.210.128]
+  7   199 ms   186 ms   198 ms  ace-data-centers.as11798.any2ix.coresite.com [206.72.210.128]
   8   206 ms   203 ms   204 ms  tg5-3.ar04.prov.acedc.net [199.58.196.105]
   9   200 ms   200 ms   205 ms  prv-211-1-1-2.unifiedlayer.com [69.27.175.147]
- 10   199 ms   202 ms   199 ms  162-144-240-163.unifiedlayer.com [162.144.240.16
-3]
- 11   205 ms   203 ms   249 ms  162-144-240-121.unifiedlayer.com [162.144.240.12
-1]
+ 10   199 ms   202 ms   199 ms  162-144-240-163.unifiedlayer.com [162.144.240.163]
+ 11   205 ms   203 ms   249 ms  162-144-240-121.unifiedlayer.com [162.144.240.121]
  12   204 ms   205 ms   202 ms  box594.bluehost.com [66.147.242.194]
 
 Trace complete.
