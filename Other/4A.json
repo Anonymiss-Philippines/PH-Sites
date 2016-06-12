@@ -1,0 +1,71 @@
+{
+	"customCode":"4A",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/4A.json",
+ 			 "level": 2,
+		 "name": "REGION IV-A",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/4A",
+ 	"subRegions" : {
+						"1000" : {
+			 "customCode": "1000",
+			 			 "name": "BATANGAS",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-A",
+			 "parentCustomCode" : "4A",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1000.json"
+	 	}
+								,  
+				"2100" : {
+			 "customCode": "2100",
+			 			 "name": "CAVITE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-A",
+			 "parentCustomCode" : "4A",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2100.json"
+	 	}
+								,  
+				"3400" : {
+			 "customCode": "3400",
+			 			 "name": "LAGUNA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-A",
+			 "parentCustomCode" : "4A",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3400.json"
+	 	}
+								,  
+				"5600" : {
+			 "customCode": "5600",
+			 			 "name": "QUEZON",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-A",
+			 "parentCustomCode" : "4A",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5600.json"
+	 	}
+								,  
+				"5800" : {
+			 "customCode": "5800",
+			 			 "name": "RIZAL",
+		 	 "level": 3,
+			 			 "parentName" : "REGION IV-A",
+			 "parentCustomCode" : "4A",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5800.json"
+	 	}
+				}
+	}
