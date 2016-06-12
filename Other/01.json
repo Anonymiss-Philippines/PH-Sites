@@ -1,0 +1,59 @@
+{
+	"customCode":"01",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/01.json",
+ 			 "level": 2,
+		 "name": "REGION I",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/01",
+ 	"subRegions" : {
+						"2800" : {
+			 "customCode": "2800",
+			 			 "name": "ILOCOS NORTE",
+		 	 "level": 3,
+			 			 "parentName" : "REGION I",
+			 "parentCustomCode" : "01",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2800.json"
+	 	}
+								,  
+				"2900" : {
+			 "customCode": "2900",
+			 			 "name": "ILOCOS SUR",
+		 	 "level": 3,
+			 			 "parentName" : "REGION I",
+			 "parentCustomCode" : "01",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2900.json"
+	 	}
+								,  
+				"3300" : {
+			 "customCode": "3300",
+			 			 "name": "LA UNION",
+		 	 "level": 3,
+			 			 "parentName" : "REGION I",
+			 "parentCustomCode" : "01",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3300.json"
+	 	}
+								,  
+				"5500" : {
+			 "customCode": "5500",
+			 			 "name": "PANGASINAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION I",
+			 "parentCustomCode" : "01",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5500.json"
+	 	}
+				}
+	}
