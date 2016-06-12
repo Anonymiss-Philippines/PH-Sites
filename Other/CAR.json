@@ -1,0 +1,83 @@
+{
+	"customCode":"CAR",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/CAR.json",
+ 			 "level": 2,
+		 "name": "CAR",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/CAR",
+ 	"subRegions" : {
+						"0100" : {
+			 "customCode": "0100",
+			 			 "name": "ABRA",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0100.json"
+	 	}
+								,  
+				"8100" : {
+			 "customCode": "8100",
+			 			 "name": "APAYAO",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/8100.json"
+	 	}
+								,  
+				"1100" : {
+			 "customCode": "1100",
+			 			 "name": "BENGUET",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1100.json"
+	 	}
+								,  
+				"2700" : {
+			 "customCode": "2700",
+			 			 "name": "IFUGAO",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/2700.json"
+	 	}
+								,  
+				"3200" : {
+			 "customCode": "3200",
+			 			 "name": "KALINGA",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/3200.json"
+	 	}
+								,  
+				"4400" : {
+			 "customCode": "4400",
+			 			 "name": "MOUNTAIN PROVINCE",
+		 	 "level": 3,
+			 			 "parentName" : "CAR",
+			 "parentCustomCode" : "CAR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4400.json"
+	 	}
+				}
+	}
