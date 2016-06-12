@@ -1,0 +1,95 @@
+{
+	"customCode":"03",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/03.json",
+ 			 "level": 2,
+		 "name": "REGION III",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/03",
+ 	"subRegions" : {
+						"7700" : {
+			 "customCode": "7700",
+			 			 "name": "AURORA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7700.json"
+	 	}
+								,  
+				"0800" : {
+			 "customCode": "0800",
+			 			 "name": "BATAAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/0800.json"
+	 	}
+								,  
+				"1400" : {
+			 "customCode": "1400",
+			 			 "name": "BULACAN",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/1400.json"
+	 	}
+								,  
+				"4900" : {
+			 "customCode": "4900",
+			 			 "name": "NUEVA ECIJA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4900.json"
+	 	}
+								,  
+				"5400" : {
+			 "customCode": "5400",
+			 			 "name": "PAMPANGA",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/5400.json"
+	 	}
+								,  
+				"6900" : {
+			 "customCode": "6900",
+			 			 "name": "TARLAC",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/6900.json"
+	 	}
+								,  
+				"7100" : {
+			 "customCode": "7100",
+			 			 "name": "ZAMBALES",
+		 	 "level": 3,
+			 			 "parentName" : "REGION III",
+			 "parentCustomCode" : "03",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/7100.json"
+	 	}
+				}
+	}
