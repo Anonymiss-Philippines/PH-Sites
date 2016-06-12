@@ -1,0 +1,35 @@
+{
+	"customCode":"NIR",
+ 	"categoryName" : "Region",
+ 	"isFinalLevel": false,
+ 	"url": "data/regions/NIR.json",
+ 			 "level": 2,
+		 "name": "NIR",
+	 	"parentRegionCC" :  "0",
+ 	"sitePath" : "0/NIR",
+ 	"subRegions" : {
+						"4500" : {
+			 "customCode": "4500",
+			 			 "name": "NEGROS OCCIDENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "NIR",
+			 "parentCustomCode" : "NIR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4500.json"
+	 	}
+								,  
+				"4600" : {
+			 "customCode": "4600",
+			 			 "name": "NEGROS ORIENTAL",
+		 	 "level": 3,
+			 			 "parentName" : "NIR",
+			 "parentCustomCode" : "NIR",
+			 "categoryName" : "Province",
+			 "parentCategoryName" : "Region",
+			 "isFinalLevel": false,
+		 	 "url": "data/regions/4600.json"
+	 	}
+				}
+	}
