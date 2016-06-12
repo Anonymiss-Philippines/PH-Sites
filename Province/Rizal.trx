@@ -9,19 +9,13 @@ over a maximum of 30 hops:
   2    35 ms    32 ms    33 ms  112.208.32.1.pldt.net [112.208.32.1]
   3    34 ms    36 ms    39 ms  119.93.255.197
   4   134 ms    81 ms    95 ms  210.213.131.70.static.pldt.net [210.213.131.70]
-
   5    35 ms    33 ms    48 ms  210.213.131.77.static.pldt.net [210.213.131.77]
-
-  6   184 ms   183 ms   184 ms  210.213.128.137.static.pldt.net [210.213.128.137
-]
-  7   182 ms   180 ms   189 ms  ace-data-centers.as11798.any2ix.coresite.com [20
-6.72.210.128]
+  6   184 ms   183 ms   184 ms  210.213.128.137.static.pldt.net [210.213.128.137]
+  7   182 ms   180 ms   189 ms  ace-data-centers.as11798.any2ix.coresite.com [206.72.210.128]
   8   218 ms   222 ms   199 ms  tg5-3.ar04.prov.acedc.net [199.58.196.105]
   9   196 ms   199 ms   202 ms  prv-211-1-0-2.unifiedlayer.com [69.27.175.139]
- 10   199 ms   258 ms   194 ms  162-144-240-147.unifiedlayer.com [162.144.240.14
-7]
+ 10   199 ms   258 ms   194 ms  162-144-240-147.unifiedlayer.com [162.144.240.147]
  11   199 ms   198 ms   194 ms  162-144-240-45.unifiedlayer.com [162.144.240.45]
-
  12   200 ms   196 ms   197 ms  gowebph.gowebph.com [142.4.14.12]
 
 Trace complete.
